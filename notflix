@@ -8,7 +8,7 @@ menu="dmenu -i -l 25"
 baseurl="https://1337x.wtf"
 cachedir="$HOME/.cache/notflix"
 
-category=$(dmenu -p "Movies? TV? Documentaries? Anime? (1,2,3,4) [NO INPUT = MOVIES]: " <&-)
+category=$(dmenu -p "Movies? TV? Documentaries? Anime? (1,2,3,4): " <&-)
 
 case $category in
 	"1") category="Movies";;
