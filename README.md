@@ -1,7 +1,6 @@
 <h1 align="center">NOTFLIX</h1>
-<p align="center">STOP DEGENERACY</p>
 
-Removed the emojis from the script as its kinda cringe imo and made it less able to search porn, by only searching movies and not everything in general. It makes it a lot harder to search and probably almost impossible so yeah. The major difference between this fork and the original is that you select the form of media you want (movie, tv, documentary, anime), this is because I just don't how to do it in a better way, where you can view all content simulatanousely on 1337x without accessing the degenerate content then besides the way I decided to implement it
+Removed the emojis from the script and made the search filtered so you can't accidentally find adult content, by only searching movies and not everything in general. It makes it a lot harder to search and probably almost impossible so yeah. The major difference between this fork and the original is that you select the form of media you want (movie, tv, documentary, anime), this is because I just don't how to do it in a better way, where you can view all content simulatanousely on 1337x without accessing the degenerate content then besides the way I decided to implement it
 
 ##
 <p align="center">
